@@ -89,7 +89,8 @@ header img {
     height: 8px;
     margin-left: 14px;
     margin-right: 20px;
-    background-image: url("../icons/arrow-down.svg");
+    /* background-image: url("../icons/arrow-down.svg"); */
+    background-image: url("https://i.imgur.com/QKm6FGe.png");
 }
 main {
     width: 100%;
@@ -115,7 +116,7 @@ main {
     margin: 0 auto;
     /*Buenas prácticas para manipulación de las imágenes*/
     /* background-image: url("../images/bitcoin.svg"); */
-    background-image: url("https://i.imgur.com/zC0sUEY");
+    background-image: url("https://i.imgur.com/zC0sUEY.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -205,14 +206,16 @@ main {
     display: inline-block;
     width: 12px;
     height: 12px;
-    background-image: url("../icons/trending-down.svg");
+    /* background-image: url("../icons/trending-down.svg"); */
+    background-image: url("https://i.imgur.com/gl6uQqf.png");
     margin-left: 10px;
 }
 .currency-table--container .up {
     display: inline-block;
     width: 12px;
     height: 12px;
-    background-image: url("../icons/trending-up.svg");
+    /* background-image: url("../icons/trending-up.svg"); */
+    background-image: url("https://i.imgur.com/TsPwvsD.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -254,7 +257,8 @@ main {
     height: 24px;
     right: calc(50% - 19px);
     bottom: calc(100% - 12px);
-    background-image: url("../icons/batata.svg");
+    /* background-image: url("../icons/batata.svg"); */
+    background-image: url("https://i.imgur.com/6lwxaQ3.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -301,16 +305,20 @@ main {
     background-repeat: no-repeat;
 }
 .clock {
-    background-image: url("../icons/clock.svg");
+    /* background-image: url("../icons/clock.svg"); */
+    background-image: url("https://i.imgur.com/HTQoLBz.png");
 }
 .eye {
-    background-image: url("../icons/eye.svg");
+    /* background-image: url("../icons/eye.svg"); */
+    background-image: url("https://i.imgur.com/oRdqUNM.png");
 }
 .dollar {
-    background-image: url("../icons/dollar-sign.svg");
+    /* background-image: url("../icons/dollar-sign.svg"); */
+    background-image: url("https://i.imgur.com/TFAeCLi.png");
 }
 .check {
-    background-image: url("../icons/check-circle.svg");
+    /* background-image: url("../icons/check-circle.svg"); */
+    background-image: url("https://i.imgur.com/ESedh7d.png");
 }
 .product-detail--card .product--card-title {
     margin-bottom: 10px;
@@ -329,7 +337,8 @@ main {
     width: 100%;
     min-width: 320px;
     height: 50vh;
-    background-image: url("../images/bitcoinbaby2x.jpg");
+    /* background-image: url("../images/bitcoinbaby2x.jpg"); */
+    background-image: url("https://i.imgur.com/AEtxPz6.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -457,7 +466,8 @@ main {
     height: 20px;
     display: inline-block;
     margin-left: 8px;
-    background-image: url("../icons/arrow-orange-right.svg");
+    /* background-image: url("../icons/arrow-orange-right.svg"); */
+    background-image: url("https://i.imgur.com/ZNtfOwP.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
